@@ -18,7 +18,7 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔨Source Code🔨", url="https://t.me/fake_smile_sethu")
+                        "GURUNATHA 😝", url="https://t.me/fake_smile_sethu")
                   ],[
                     InlineKeyboardButton(
                         "sᴜᴘᴘᴏʀᴛ👿", url="https://instagram.com/_fake_smile_sethu_?utm_medium=copy_link"
