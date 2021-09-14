@@ -21,7 +21,7 @@ async def start(_, message: Message):
                         "🔨Source Code🔨", url="https://t.me/fake_smile_sethu")
                   ],[
                     InlineKeyboardButton(
-                        "sᴜᴘᴘᴏʀᴛ👿", url="https://t.me/warbotzsupport"
+                        "sᴜᴘᴘᴏʀᴛ👿", url="https://instagram.com/_fake_smile_sethu_?utm_medium=copy_link"
                     ),
                     InlineKeyboardButton(
                         "ᴄʜᴀɴɴᴇʟ", url="https://t.me/thewarbotz"
